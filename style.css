@@ -1,0 +1,54 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f6ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Profile Card */
+.profile-card {
+    width: 400px;
+    margin: 50px auto;          /* margin = outer space */
+    padding: 20px;             /* padding = inner space */
+    background-color: #ffffff;
+    border: 2px solid #4f46e5; /* border */
+    border-radius: 10px;
+}
+
+/* Name */
+.name {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/* Role */
+.role {
+    text-align: center;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Sections */
+.section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9fafb;
+}
+
+/* Section Headings */
+.section h2 {
+    margin-bottom: 10px;
+    color: #4f46e5;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
